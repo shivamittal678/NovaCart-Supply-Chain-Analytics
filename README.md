@@ -143,9 +143,9 @@ The Power BI report contains four pages:
 ## Project Files
 
 - [Excel Analysis](novacart_supply_chain_inventory_analytics_ExcelWork.xlsx)
-- [SQL Analysis](sql/novacart_supply_chain_analysis.sql)
+- [SQL Analysis](SQL_KPI.sql)
 - [Python EDA](NovaCart_SuppyChain.ipynb)
-- [Power BI Dashboard](powerbi/supply_chain_dashboard.pbix)
+- [Power BI Dashboard](NvaCart_PowerBI.pbix)
 
 ---
 
