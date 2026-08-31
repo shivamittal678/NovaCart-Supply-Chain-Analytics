@@ -95,7 +95,7 @@ Python was used for:
 - Demand growth analysis
 - ABC inventory classification
 
-[View Python Notebook](python/supply_chain_eda.ipynb)
+[View Python Notebook](NovaCart_SuppyChain.ipynb)
 
 ---
 
@@ -144,7 +144,7 @@ The Power BI report contains four pages:
 
 - [Excel Analysis](excel/inventory_analysis.xlsx)
 - [SQL Analysis](sql/novacart_supply_chain_analysis.sql)
-- [Python EDA](python/supply_chain_eda.ipynb)
+- [Python EDA](NovaCart_SuppyChain.ipynb)
 - [Power BI Dashboard](powerbi/supply_chain_dashboard.pbix)
 
 ---
