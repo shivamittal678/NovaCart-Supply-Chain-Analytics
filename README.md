@@ -80,7 +80,7 @@ SQL was used to analyse:
 - Supplier and warehouse rankings
 - Stockout trends
 
-[View SQL Analysis](sql/novacart_supply_chain_analysis.sql)
+[View SQL Analysis](SQL_KPI.sql)
 
 ---
 
