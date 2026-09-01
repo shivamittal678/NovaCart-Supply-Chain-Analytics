@@ -149,7 +149,7 @@ The Power BI report contains four pages:
 - [Python EDA](NovaCart_SuppyChain.ipynb)
 - [Power BI Dashboard](NvaCart_PowerBI.pbix)
 -
-
+![NovaCart Insights Image](images/NovaCartInsights_Image.png)
 ---
 
 ## Key Insights
