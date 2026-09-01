@@ -124,7 +124,7 @@ The Power BI report contains four pages:
 
 ![Demand Dashboard](Demand&Fulfillment.png)
 
- WordFile_BusinessInsights(NovaCartInsights_Image.png)
+ NovaCartInsights_Image.png
 
 ---
 
