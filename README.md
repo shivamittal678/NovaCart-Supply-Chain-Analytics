@@ -146,6 +146,7 @@ The Power BI report contains four pages:
 - [SQL Analysis](SQL_KPI.sql)
 - [Python EDA](NovaCart_SuppyChain.ipynb)
 - [Power BI Dashboard](NvaCart_PowerBI.pbix)
+- WordFile_BusinessInsights(NovaCart Supply Chain_WordFile.docx)
 
 ---
 
